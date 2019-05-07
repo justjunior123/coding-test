@@ -1,4 +1,4 @@
-# Someones Challenge
+# Challenge
 
 1. Shows a user an image of either a red or blue ball upon visiting the page. This should be random, with a 50/50 chance of a user being shown either color ball.
 
